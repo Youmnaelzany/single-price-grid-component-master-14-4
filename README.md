@@ -16,8 +16,8 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Youmnaelzany/single-price-grid-component-master-14-4.git)
+- Live Site URL: [Add live site URL here](https://singlepricecardcomponent144.netlify.app/)
 
 ## My process
 
@@ -30,5 +30,5 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Youmnaelzany](https://www.frontendmentor.io/profile/Youmnaelzany)
+- Twitter - [@yayaahmed33](https://twitter.com/yayaahmed33)
